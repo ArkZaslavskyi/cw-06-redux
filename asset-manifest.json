@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cw-06-redux/static/css/main.23c64a28.css",
+    "main.js": "/cw-06-redux/static/js/main.2b5a258a.js",
+    "index.html": "/cw-06-redux/index.html",
+    "main.23c64a28.css.map": "/cw-06-redux/static/css/main.23c64a28.css.map",
+    "main.2b5a258a.js.map": "/cw-06-redux/static/js/main.2b5a258a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23c64a28.css",
+    "static/js/main.2b5a258a.js"
+  ]
+}
